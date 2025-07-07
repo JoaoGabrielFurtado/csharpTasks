@@ -29,3 +29,36 @@ public class ChavePix
         Console.WriteLine($"Tipo da chave PIX: {tipoChave}");
     }
 }
+
+/*
+         .	Caractere, exceto quebra de linha
+        \d	Dígito (0-9)
+        \D	Caractere que não é um dígito
+        \w	Caractere alfanumérico
+        \W	Caractere não alfanumérico
+        \s	Espaço em branco
+        \S	Caractere que não é espaço em branco
+        ^	Início da string
+        $	Fim da string
+
+        *	0 ou mais ocorrências do padrão anterior
+        +	1 ou mais ocorrências do padrão anterior
+        ?	0 ou 1 ocorrência do padrão anterior
+        {n}	Exatamente n ocorrências do padrão anterior
+        {n,}	n ou mais ocorrências do padrão anterior
+        {n,m}	Entre n e m ocorrências do padrão anterior
+
+        [abc]	Qualquer caractere dentro dos colchetes ('a', 'b' ou 'c')
+        [^abc]	Qualquer caractere exceto os que não estejam dentro dos colchetes
+        [a-z]	Qualquer caractere minúsculo de 'a' a 'z'
+        [A-Z]	Qualquer caractere maiúsculo de 'A' a 'Z'
+        [0-9]	Qualquer dígito
+        [a-zA-Z]	Qualquer letra maiúscula ou minúscula
+
+        IsMatch()	Verifica se um padrão existe na string.
+        Match()	Retorna a primeira correspondência do padrão.
+        Matches()	Retorna todas as correspondências do padrão.
+        Replace()	Substitui ocorrências do padrão por uma nova string.
+        Split()	Divide uma string com base em um padrão.
+
+*/
