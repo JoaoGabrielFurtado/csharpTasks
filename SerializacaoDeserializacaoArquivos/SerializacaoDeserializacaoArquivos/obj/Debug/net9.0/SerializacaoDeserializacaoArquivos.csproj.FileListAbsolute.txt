@@ -1,0 +1,14 @@
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\bin\Debug\net9.0\SerializacaoDeserializacaoArquivos.exe
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\bin\Debug\net9.0\SerializacaoDeserializacaoArquivos.deps.json
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\bin\Debug\net9.0\SerializacaoDeserializacaoArquivos.runtimeconfig.json
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\bin\Debug\net9.0\SerializacaoDeserializacaoArquivos.dll
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\bin\Debug\net9.0\SerializacaoDeserializacaoArquivos.pdb
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.AssemblyInfo.cs
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.dll
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\refint\SerializacaoDeserializacaoArquivos.dll
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.pdb
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\SerializacaoDeserializacaoArquivos.genruntimeconfig.cache
+C:\Users\jgzik\Desktop\desafiosC#\SerializacaoDeserializacaoArquivos\SerializacaoDeserializacaoArquivos\obj\Debug\net9.0\ref\SerializacaoDeserializacaoArquivos.dll

@@ -1,0 +1,14 @@
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\bin\Debug\net9.0\exercicioHeranca.exe
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\bin\Debug\net9.0\exercicioHeranca.deps.json
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\bin\Debug\net9.0\exercicioHeranca.runtimeconfig.json
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\bin\Debug\net9.0\exercicioHeranca.dll
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\bin\Debug\net9.0\exercicioHeranca.pdb
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.AssemblyInfo.cs
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.dll
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\refint\exercicioHeranca.dll
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.pdb
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\exercicioHeranca.genruntimeconfig.cache
+C:\Users\jgzik\Desktop\desafiosC#\exercicioHeranca\exercicioHeranca\obj\Debug\net9.0\ref\exercicioHeranca.dll

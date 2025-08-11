@@ -17,7 +17,7 @@ public class ChavePix
 
         if (Regex.IsMatch(chavePix, padraoCPF))
             tipoChave = "CPF";
-        else if (Regex.IsMatch(chavePix, padraoCNPJ))
+        else if (Regex.IsMatch(chavePix, padraoCNPJ)) 
             tipoChave = "CNPJ";
         else if (Regex.IsMatch(chavePix, padraoTelefone))
             tipoChave = "Telefone";

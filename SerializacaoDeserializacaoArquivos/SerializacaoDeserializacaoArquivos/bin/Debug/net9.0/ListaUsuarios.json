@@ -1,0 +1,32 @@
+[
+  {
+    "Nome": "Jo\u00E3o",
+    "Idade": 20,
+    "Email": " j@email.com "
+  },
+  {
+    "Nome": "Gabriel",
+    "Idade": 25,
+    "Email": " g@email.com "
+  },
+  {
+    "Nome": "Gabriela",
+    "Idade": 19,
+    "Email": " gla@email.com "
+  },
+  {
+    "Nome": "Marcos",
+    "Idade": 56,
+    "Email": " m@email.com "
+  },
+  {
+    "Nome": "Rafael",
+    "Idade": 12,
+    "Email": " r@email.com "
+  },
+  {
+    "Nome": "Beto",
+    "Idade": 43,
+    "Email": " b@email.com "
+  }
+]

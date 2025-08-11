@@ -1,0 +1,8 @@
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\bin\Debug\exerciciosEncapsulamento.exe.config
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\bin\Debug\exerciciosEncapsulamento.exe
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\bin\Debug\exerciciosEncapsulamento.pdb
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\obj\Debug\exerciciosEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\obj\Debug\exerciciosEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\obj\Debug\exerciciosEncapsulamento.exe
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\obj\Debug\exerciciosEncapsulamento.pdb
+C:\Users\jgzik\Desktop\desafiosC#\exerciciosEncapsulamento\exerciciosEncapsulamento\obj\Debug\exerciciosEncapsulamento.exe.config

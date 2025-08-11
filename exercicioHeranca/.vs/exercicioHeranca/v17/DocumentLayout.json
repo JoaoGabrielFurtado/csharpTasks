@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|c:\\users\\jgzik\\desktop\\desafiosc#\\exercicioheranca\\exercicioheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|solutionrelative:exercicioheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|c:\\users\\jgzik\\desktop\\desafiosc#\\exercicioheranca\\exercicioheranca\\classes\\cursodesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|solutionrelative:exercicioheranca\\classes\\cursodesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|c:\\users\\jgzik\\desktop\\desafiosc#\\exercicioheranca\\exercicioheranca\\classes\\cursoprogramacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|solutionrelative:exercicioheranca\\classes\\cursoprogramacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|c:\\users\\jgzik\\desktop\\desafiosc#\\exercicioheranca\\exercicioheranca\\classes\\instrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|solutionrelative:exercicioheranca\\classes\\instrutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|c:\\users\\jgzik\\desktop\\desafiosc#\\exercicioheranca\\exercicioheranca\\interfaces\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1C0204-6577-4EAD-B435-B30D3DD61F92}|exercicioHeranca\\exercicioHeranca.csproj|solutionrelative:exercicioheranca\\interfaces\\icurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoDesign.cs",
+              "DocumentMoniker": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\CursoDesign.cs",
+              "RelativeDocumentMoniker": "exercicioHeranca\\Classes\\CursoDesign.cs",
+              "ToolTip": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\CursoDesign.cs",
+              "RelativeToolTip": "exercicioHeranca\\Classes\\CursoDesign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:16:31.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoProgramacao.cs",
+              "DocumentMoniker": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\CursoProgramacao.cs",
+              "RelativeDocumentMoniker": "exercicioHeranca\\Classes\\CursoProgramacao.cs",
+              "ToolTip": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\CursoProgramacao.cs",
+              "RelativeToolTip": "exercicioHeranca\\Classes\\CursoProgramacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:16:25.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instrutor.cs",
+              "DocumentMoniker": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\Instrutor.cs",
+              "RelativeDocumentMoniker": "exercicioHeranca\\Classes\\Instrutor.cs",
+              "ToolTip": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Classes\\Instrutor.cs",
+              "RelativeToolTip": "exercicioHeranca\\Classes\\Instrutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:16:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICurso.cs",
+              "DocumentMoniker": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Interfaces\\ICurso.cs",
+              "RelativeDocumentMoniker": "exercicioHeranca\\Interfaces\\ICurso.cs",
+              "ToolTip": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Interfaces\\ICurso.cs",
+              "RelativeToolTip": "exercicioHeranca\\Interfaces\\ICurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:14:50.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\jgzik\\Desktop\\desafiosC#\\exercicioHeranca\\exercicioHeranca\\Program.cs",
+              "RelativeToolTip": "exercicioHeranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:15:47.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
